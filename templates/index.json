@@ -126,6 +126,32 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_xiVkHj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gWhPbL": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultats visibles dès les premiers jours",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_gWhPbL"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_link_blocks_3FtAP9": {
       "type": "image-link-blocks",
       "blocks": {
@@ -206,6 +232,7 @@
     "logo_list_zXYBWN",
     "rich_text_XwVG9M",
     "image_with_text_overlay_K4FXNw",
+    "rich_text_xiVkHj",
     "image_link_blocks_3FtAP9",
     "video_RKDqXA"
   ]
