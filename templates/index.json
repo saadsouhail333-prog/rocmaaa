@@ -160,7 +160,7 @@
           "settings": {
             "image": "shopify://shop_images/IMG_0122.jpg",
             "stretch_image": true,
-            "link_text": "",
+            "link_text": "Avant",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -173,7 +173,7 @@
           "settings": {
             "image": "shopify://shop_images/IMG_0120.jpg",
             "stretch_image": true,
-            "link_text": "",
+            "link_text": "Avant",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -226,30 +226,6 @@
         "overlay_opacity": 0
       }
     },
-    "video_4tAeiN": {
-      "type": "video",
-      "blocks": {
-        "play_G368YD": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "play_G368YD"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "sm",
-        "video": "shopify://files/videos/filtered-E3B538BE-B92D-4F4A-8C60-365DCF4924DF.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "rich_text_d97xq7": {
       "type": "rich-text",
       "blocks": {
@@ -274,6 +250,30 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "video_4tAeiN": {
+      "type": "video",
+      "blocks": {
+        "play_G368YD": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "play_G368YD"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/filtered-E3B538BE-B92D-4F4A-8C60-365DCF4924DF.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     }
   },
