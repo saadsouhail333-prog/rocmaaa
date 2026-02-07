@@ -47,6 +47,12 @@
             "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');\n\n  /* Style pour la bannière */\n  #notification-banner {\n    margin: 20px; /* Tu peux ajuster selon ton besoin */\n    display: flex;\n    justify-content: flex-start; /* Aligne à gauche */\n  }\n\n  #notification-banner .red-div {\n    background-color: #FFECEC;\n    border-radius: 8px;\n    padding: 8px;\n    display: inline-flex;\n    align-items: center;\n    font-family: 'Poppins', Arial, sans-serif;\n    font-weight: bold;\n  }\n\n  /* Effet ripple */\n  #notification-banner .ripple-circle {\n    margin-right: 8px;\n    height: 7px;\n    width: 7px;\n    display: inline-block;\n    position: relative;\n    border-radius: 50%;\n    background-color: #D10000;\n  }\n\n  #notification-banner .ripple-circle:before,\n  #notification-banner .ripple-circle:after {\n    content: \"\";\n    display: block;\n    position: absolute;\n    top: 0;\n    left: 0;\n    right: 0;\n    bottom: 0;\n    border: 1px solid #D10000;\n    border-radius: 50%;\n    opacity: 1;\n  }\n\n  #notification-banner .ripple-circle:before {\n    animation: ripple 2s linear infinite;\n  }\n\n  #notification-banner .ripple-circle:after {\n    animation: ripple 2s linear 1s infinite;\n  }\n\n  @keyframes ripple {\n    0% {\n      transform: scale(1);\n      opacity: 1;\n    }\n\n    50% {\n      transform: scale(1.5);\n      opacity: 0.5;\n    }\n\n    100% {\n      transform: scale(2);\n      opacity: 0;\n    }\n  }\n\n  /* Texte rouge */\n  #notification-banner .text {\n    display: inline-block;\n    color: #D10000;\n    font-size: 14px;\n  }\n</style>\n\n<!-- Bannière avec message d’urgence alignée à gauche -->\n<div id=\"notification-banner\">\n  <div class=\"red-div\">\n    <div class=\"ripple-circle\"></div>\n    <div class=\"text\">En stock : 3 restants</div>\n  </div>\n</div>"
           }
         },
+        "liquid_W3f44b": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Promo d'automne</title>\n<style>\nbody {\n    background-color: #ffffff;\n    font-family: Arial, Helvetica, sans-serif;\n}\n\n.promo-container {\n    display: flex;\n    justify-content: center;\n    margin-top: 40px;\n}\n\n.promo-box {\n    background-color: #e6caa5;\n    padding: 15px 25px;  /* réduit le padding pour un carré plus petit */\n    border-radius: 15px;\n    text-align: center;\n    width: fit-content;\n}\n\n.promo-title {\n    color: #d86a7c;\n    font-weight: bold;\n    font-size: 20px;  /* police plus petite */\n    margin: 0;\n    letter-spacing: 1px;\n}\n\n.promo-discount {\n    color: #c62828;\n    font-weight: bold;\n    font-size: 20px;  /* police plus petite */\n    margin: 6px 0 0 0;\n}\n\n.promo-stock {\n    color: #000000;\n    font-weight: bold;\n    font-size: 16px;  /* police plus petite */\n    margin: 4px 0 0 0;\n}\n</style>\n</head>\n<body>\n\n<div class=\"promo-container\">\n    <div class=\"promo-box\">\n        <p class=\"promo-title\">PROMO D'AUTOMNE</p>\n        <p class=\"promo-discount\">50% DE RÉDUCTION</p>\n        <p class=\"promo-stock\">STOCK LIMITÉ</p>\n    </div>\n</div>\n\n</body>\n</html>"
+          }
+        },
         "rating_4xCbcX": {
           "type": "rating",
           "settings": {
@@ -106,6 +112,7 @@
         "badges_iBpfzX",
         "price_dN9MXf",
         "liquid_tjhBBj",
+        "liquid_W3f44b",
         "rating_4xCbcX",
         "separator_fTzgdG",
         "description_83JP8x",
