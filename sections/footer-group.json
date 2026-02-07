@@ -14,8 +14,15 @@
     "featured_product_WtXc88": {
       "type": "featured-product",
       "blocks": {
+        "liquid_qVLFeQ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.7</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">(878 notes)</span>\n    </a>"
+          }
+        },
         "vendor_wJpxg7": {
           "type": "vendor",
+          "disabled": true,
           "settings": {}
         },
         "title_yhX6KG": {
@@ -52,6 +59,7 @@
         },
         "description_83JP8x": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
@@ -86,6 +94,7 @@
         }
       },
       "block_order": [
+        "liquid_qVLFeQ",
         "vendor_wJpxg7",
         "title_yhX6KG",
         "badges_iBpfzX",
