@@ -275,6 +275,32 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "rich_text_JcYejV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cbGn7V": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_cbGn7V"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -286,6 +312,7 @@
     "image_link_blocks_3FtAP9",
     "video_RKDqXA",
     "rich_text_d97xq7",
-    "video_4tAeiN"
+    "video_4tAeiN",
+    "rich_text_JcYejV"
   ]
 }
