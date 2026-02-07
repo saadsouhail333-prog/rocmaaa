@@ -25,6 +25,65 @@
         "overlay_opacity": 0
       }
     },
+    "logo_list_zXYBWN": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_NAYCEi": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/IMG_0088.jpg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_wa6rxm": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/IMG_0087.jpg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_YEDcjG": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/IMG_0089.jpg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_XJHcHL": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/IMG_0089.jpg",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_NAYCEi",
+        "logo_wa6rxm",
+        "logo_YEDcjG",
+        "logo_XJHcHL"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "Vu sur",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 4,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
@@ -721,6 +780,7 @@
   },
   "order": [
     "image_with_text_overlay_jQYmLw",
+    "logo_list_zXYBWN",
     "image-link-blocks",
     "scrolling-text",
     "collection-list",
