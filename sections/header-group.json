@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Paiement sécurisé",
+            "url": ""
+          }
+        },
+        "message_BnRqpA": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison offerte",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_BnRqpA"
       ],
       "settings": {
         "enable_sticky": false,
@@ -31,7 +39,7 @@
         "cycle_speed": 6,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
-        "scrolling_speed": 10,
+        "scrolling_speed": 20,
         "background": "#000000",
         "background_gradient": "",
         "text_color": "#ffffff"
