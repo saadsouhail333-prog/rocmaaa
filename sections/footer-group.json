@@ -63,15 +63,11 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector_be8y6T": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons_jc6J6T": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": false,
-            "show_gift_card_recipient": true,
+            "show_gift_card_recipient": false,
             "atc_button_background": "#f0c417",
             "atc_button_text_color": "#1a1a1a",
             "payment_button_background": "",
@@ -92,7 +88,6 @@
         "separator_fTzgdG",
         "description_83JP8x",
         "variant_picker_iAne6i",
-        "quantity_selector_be8y6T",
         "buy_buttons_jc6J6T",
         "pickup_availability_YVKNdP"
       ],
