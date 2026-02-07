@@ -36,18 +36,18 @@
             "link": ""
           }
         },
-        "logo_wa6rxm": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/IMG_0087.jpg",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
         "logo_YEDcjG": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/IMG_0089.jpg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_wa6rxm": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/IMG_0087.jpg",
             "logo_width": 120,
             "link": ""
           }
@@ -63,8 +63,8 @@
       },
       "block_order": [
         "logo_NAYCEi",
-        "logo_wa6rxm",
         "logo_YEDcjG",
+        "logo_wa6rxm",
         "logo_XJHcHL"
       ],
       "name": "Logo list",
