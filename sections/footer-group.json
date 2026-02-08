@@ -221,6 +221,59 @@
         "text_color": ""
       }
     },
+    "faq_JA7G8i": {
+      "type": "faq",
+      "blocks": {
+        "item_6JdR6D": {
+          "type": "item",
+          "settings": {
+            "title": "Epur Glow convient-il à tous les âges",
+            "content": "<p><strong>Oui, Epur Glow convient à tous les types de personnes et à tous les âges.</strong><br/><br/>Ses soins sont formulés pour être adaptés à tous les types de peau : <strong>peau sèche, normale, mixte, grasse et sensible</strong>, aussi bien pour les <strong>femmes que pour les hommes</strong>.<br/><br/></p>"
+          }
+        },
+        "item_FAV7Um": {
+          "type": "item",
+          "settings": {
+            "title": "Epur Glow convient-il à tous, hommes et femmes,",
+            "content": "<p><br/>Oui, Epur Glow est adapté à tous, hommes et femmes, et convient à tous les types de peau<br/><br/></p>"
+          }
+        },
+        "item_T9akbP": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je retourner le produit si je change d’avis ?",
+            "content": "<p><br/>Oui, tu peux retourner un produit dans un délai défini après réception (par exemple 30 ou 90 jours selon politique). Tu obtiendras un remboursement une fois le retour traité<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_6JdR6D",
+        "item_FAV7Um",
+        "item_T9akbP"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 140,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -250,6 +303,7 @@
   "order": [
     "featured_product_WtXc88",
     "text-with-icons",
+    "faq_JA7G8i",
     "footer"
   ]
 }
