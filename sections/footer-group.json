@@ -221,6 +221,54 @@
         "text_color": ""
       }
     },
+    "tabs_FTWPDT": {
+      "type": "tabs",
+      "blocks": {
+        "tab_e9jbtn": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristique",
+            "content": "<p>Voici un texte court et simple pour présenter ce produit :</p><p><strong>Le Stylo Anti-Mycosique Epurglow</strong> est un soin ciblé pour traiter les ongles abîmés par les champignons. Grâce à l'action combinée de l'<strong>allicine</strong> et de l'<strong>acide undécylénique</strong>, il élimine l'infection tout en renforçant les ongles cassants.</p><p>Facile à utiliser avec son embout précis, il aide l'ongle à retrouver sa couleur naturelle et répare les zones endommagées. C'est la solution idéale pour retrouver des ongles sains et esthétiques en un seul geste.</p>",
+            "page": ""
+          }
+        },
+        "tab_G7arAd": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayer le 30  jours gratuitement",
+            "content": "<p>Profitez de <strong>30 jours d’essai sans engagement</strong>. Si vous n’êtes pas entièrement satisfait, nous vous <strong>remboursons l’intégralité</strong> de votre paiement, sans conditions compliquées.</p>",
+            "page": ""
+          }
+        },
+        "tab_6mAQqe": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison gratuite à domicile",
+            "content": "<p><br/>Profitez dès maintenant de la <strong>livraison gratuite à domicile</strong> pour soigner vos ongles sans bouger de chez vous !<br/><br/>.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_e9jbtn",
+        "tab_G7arAd",
+        "tab_6mAQqe"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "faq_JA7G8i": {
       "type": "faq",
       "blocks": {
@@ -303,6 +351,7 @@
   "order": [
     "featured_product_WtXc88",
     "text-with-icons",
+    "tabs_FTWPDT",
     "faq_JA7G8i",
     "footer"
   ]
