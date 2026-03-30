@@ -19,7 +19,7 @@
     "icon_stroke_width": 1.3,
     "icon_style": "duo",
     "button_style": "fill",
-    "background": "#f0f0f0",
+    "background": "#ffffff",
     "text_color": "#1a1a1a",
     "header_background": "#f0f0f0",
     "header_text_color": "#1a1a1a",
@@ -44,14 +44,7 @@
     "cart_show_free_shipping_threshold": false,
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": [],
-    "blocks": {
-      "15557474716127144420": {
-        "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Sound": {
