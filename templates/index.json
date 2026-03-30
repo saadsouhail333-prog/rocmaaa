@@ -137,6 +137,19 @@
         "overlay_opacity": 0
       }
     },
+    "custom_liquid_L7r8hy": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_xiVkHj": {
       "type": "rich-text",
       "name": "Rich text",
@@ -156,6 +169,7 @@
     "before_after_image_LmrgbK",
     "rich_text_XwVG9M",
     "image_with_text_overlay_K4FXNw",
+    "custom_liquid_L7r8hy",
     "rich_text_xiVkHj"
   ]
 }
