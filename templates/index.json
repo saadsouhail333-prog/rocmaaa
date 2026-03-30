@@ -137,19 +137,6 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "custom_html_TVDPgR": {
-      "type": "custom-html",
-      "name": "Custom HTML",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "html": "<div class=\"section-stack section-stack--center\">\n  <div class=\"section-stack__main\">\n\n    <div class=\"before-after shadow text-custom\" style=\"--text-color: 255 255 255;\">\n\n      <!-- IMAGE AVANT -->\n      <div class=\"before-after__before-image text-custom\" style=\"--text-color: 255 255 255;\">\n        <picture>\n          <source media=\"(max-width: 699px)\" srcset=\"//my-white-smile.com/cdn/shop/files/Copie_de_Copie_de_Template_section_benefice_1.png?v=1771446176&amp;width=400 400w,\n                    //my-white-smile.com/cdn/shop/files/Copie_de_Copie_de_Template_section_benefice_1.png?v=1771446176&amp;width=600 600w,\n                    //my-white-smile.com/cdn/shop/files/Copie_de_Copie_de_Template_section_benefice_1.png?v=1771446176&amp;width=800 800w,\n                    //my-white-smile.com/cdn/shop/files/Copie_de_Copie_de_Template_section_benefice_1.png?v=1771446176&amp;width=1000 1000w\">\n\n          <img src=\"//my-white-smile.com/cdn/shop/files/Copie_de_Copie_de_Template_section_benefice_1.png?v=1771446176&amp;width=1920\" alt=\"\" width=\"1920\" height=\"1080\" loading=\"lazy\" sizes=\"(max-width: 999px) 100vw, 1000px\" draggable=\"false\" class=\"rounded w-full\">\n        </source></picture>\n\n        <p class=\"before-after__label before-after__label--left before-after__label--top h5\">\n          Avant\n        </p>\n      </div>\n\n      <!-- IMAGE APRES -->\n      <div class=\"before-after__after-image text-custom\" style=\"--text-color: 255 255 255;\">\n        <picture>\n          <source media=\"(max-width: 699px)\" srcset=\"//my-white-smile.com/cdn/shop/files/Copie_de_Copie_de_Template_section_benefice_10_61a26952.png?v=1771446233&amp;width=400 400w,\n                    //my-white-smile.com/cdn/shop/files/Copie_de_Copie_de_Template_section_benefice_10_61a26952.png?v=1771446233&amp;width=600 600w,\n                    //my-white-smile.com/cdn/shop/files/Copie_de_Copie_de_Template_section_benefice_10_61a26952.png?v=1771446233&amp;width=800 800w,\n                    //my-white-smile.com/cdn/shop/files/Copie_de_Copie_de_Template_section_benefice_10_61a26952.png?v=1771446233&amp;width=1000 1000w\">\n\n          <img src=\"//my-white-smile.com/cdn/shop/files/Copie_de_Copie_de_Template_section_benefice_10.png?v=1771446231&amp;width=1920\" alt=\"\" width=\"1920\" height=\"1080\" loading=\"lazy\" sizes=\"(max-width: 999px) 100vw, 1000px\" draggable=\"false\" class=\"object-fill rounded\">\n        </source></picture>\n\n        <p class=\"before-after__label before-after__label--right before-after__label--top h5\">\n          Après\n        </p>\n      </div>\n\n      <!-- CURSEUR -->\n      <div class=\"before-after__cursor-wrapper\">\n        <split-cursor class=\"before-after__cursor\" style=\"--background: 255 255 255\">\n\n          <span class=\"sr-only\">Tirer</span>\n\n          <svg role=\"presentation\" width=\"28\" height=\"35\" viewbox=\"0 0 32 40\">\n            <path d=\"M0 16C0 7.16344 7.16344 0 16 0C24.8366 0 32 7.16344 32 16V24C32 32.8366 24.8366 40 16 40C7.16344 40 0 32.8366 0 24V16Z\" fill=\"#ffffff\"></path>\n            <path d=\"M11 14H13V26H11zM15 14H17V26H15zM19 14H21V26H19z\" fill=\"#000000\"></path>\n          </svg>\n\n        </split-cursor>\n      </div>\n\n    </div>\n\n  </div>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "rich_text_xiVkHj": {
       "type": "rich-text",
       "name": "Rich text",
@@ -169,7 +156,6 @@
     "rich_text_XwVG9M",
     "image_with_text_overlay_K4FXNw",
     "before_after_image_LmrgbK",
-    "custom_html_TVDPgR",
     "rich_text_xiVkHj"
   ]
 }
