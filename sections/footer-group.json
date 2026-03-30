@@ -20,6 +20,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_dWrFnJ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "badges_63fHrC": {
           "type": "badges",
           "settings": {}
@@ -81,6 +87,7 @@
       },
       "block_order": [
         "title_UqJxBa",
+        "liquid_dWrFnJ",
         "badges_63fHrC",
         "price_WrhCrW",
         "rating_yt3chY",
