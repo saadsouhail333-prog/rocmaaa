@@ -124,6 +124,19 @@
         "input_text_color": ""
       }
     },
+    "custom_liquid_3CKYXU": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "tabs_FTWPDT": {
       "type": "tabs",
       "blocks": {
@@ -266,6 +279,7 @@
   },
   "order": [
     "featured_product_NfYppd",
+    "custom_liquid_3CKYXU",
     "tabs_FTWPDT",
     "custom_liquid_w8Yf3N",
     "faq_JA7G8i",
