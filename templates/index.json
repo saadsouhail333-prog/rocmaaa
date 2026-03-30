@@ -75,13 +75,13 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 4,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
+        "text_color": "#ffffff",
+        "heading_color": "#ffffff",
         "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
+        "logo_item_background": "#ffffff",
+        "logo_item_border": "#ffffff"
       }
     },
     "rich_text_XwVG9M": {
