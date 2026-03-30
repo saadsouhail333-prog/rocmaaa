@@ -133,6 +133,28 @@
         "heading_gradient": ""
       }
     },
+    "accordion_content_7WAGia": {
+      "type": "accordion-content",
+      "name": "Accordion content",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "<h5>Już tysiące przemienionych uśmiechów<br/></h5>",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "custom_liquid_w8Yf3N": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -140,7 +162,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Carousel Vidéos Compact</title>\n\n  <style>\n    body {\n      margin: 0;\n      font-family: sans-serif;\n      background-color: #f5f5f5;\n    }\n\n    .carousel-container {\n      overflow-x: auto;\n      padding: 20px 10px;\n      display: flex;\n      gap: 10px;\n      scroll-snap-type: x mandatory;\n      -webkit-overflow-scrolling: touch;\n    }\n\n    .video-card {\n      flex: 0 0 auto;\n      width: 140px;\n      border-radius: 15px;\n      box-shadow: 0 2px 6px rgba(0,0,0,0.2);\n      scroll-snap-align: start;\n      background-color: #000;\n      overflow: hidden;\n    }\n\n    .video-card video {\n      width: 100%;\n      height: auto;\n      display: block;\n      border-radius: 15px;\n      object-fit: cover;\n    }\n\n    /* cacher scrollbar */\n    .carousel-container::-webkit-scrollbar {\n      display: none;\n    }\n  </style>\n</head>\n<body>\n\n  <div class=\"carousel-container\">\n\n    <div class=\"video-card\">\n      <video autoplay loop muted playsinline webkit-playsinline preload=\"auto\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/b7f404b870024fa4a6091825f830ba85.mov\" type=\"video/mp4\">\n      </video>\n    </div>\n\n    <div class=\"video-card\">\n      <video autoplay loop muted playsinline webkit-playsinline preload=\"auto\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/4e0aae59d2c74e78bb8ad261c0dec905.mov\" type=\"video/mp4\">\n      </video>\n    </div>\n\n    <div class=\"video-card\">\n      <video autoplay loop muted playsinline webkit-playsinline preload=\"auto\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/a3fda2c3e877495a8f002e93fb3addbf.mov\" type=\"video/mp4\">\n      </video>\n    </div>\n\n    <div class=\"video-card\">\n      <video autoplay loop muted playsinline webkit-playsinline preload=\"auto\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/5e0f47c3750e48a598c75f78930631f2.mov\" type=\"video/mp4\">\n      </video>\n    </div>\n\n  </div>\n\n  <!-- Script autoplay mobile -->\n  <script>\n    document.querySelectorAll('video').forEach(video => {\n      const playPromise = video.play();\n\n      if (playPromise !== undefined) {\n        playPromise.catch(() => {\n          document.addEventListener('touchstart', () => {\n            video.play();\n          }, { once: true });\n        });\n      }\n    });\n  </script>\n\n</body>\n</html>",
+        "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Carousel Vidéos Compact</title>\n\n  <style>\n    body {\n      margin: 0;\n      font-family: sans-serif;\n      background-color: #f5f5f5;\n      text-align: center;\n    }\n\n    h1 {\n      margin: 20px 0;\n      font-size: 1.8em;\n      color: #333;\n    }\n\n    .carousel-container {\n      overflow-x: auto;\n      padding: 20px 10px;\n      display: flex;\n      gap: 15px;\n      scroll-snap-type: x mandatory;\n      -webkit-overflow-scrolling: touch;\n      justify-content: center;\n    }\n\n    .video-card {\n      flex: 0 0 auto;\n      width: 180px;\n      border-radius: 15px;\n      box-shadow: 0 2px 6px rgba(0,0,0,0.2);\n      scroll-snap-align: start;\n      background-color: #000;\n      overflow: hidden;\n      transition: transform 0.3s;\n    }\n\n    .video-card:hover {\n      transform: scale(1.05);\n    }\n\n    .video-card video {\n      width: 100%;\n      height: auto;\n      display: block;\n      border-radius: 15px;\n      object-fit: cover;\n    }\n\n    /* cacher scrollbar */\n    .carousel-container::-webkit-scrollbar {\n      display: none;\n    }\n\n    /* responsive pour mobiles */\n    @media (max-width: 500px) {\n      .video-card {\n        width: 140px;\n      }\n\n      h1 {\n        font-size: 1.5em;\n        margin: 15px 0;\n      }\n    }\n  </style>\n</head>\n<body>\n\n  <h1>Już tysiące przemienionych uśmiechów</h1>\n\n  <div class=\"carousel-container\">\n\n    <div class=\"video-card\">\n      <video autoplay loop muted playsinline webkit-playsinline preload=\"auto\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/b7f404b870024fa4a6091825f830ba85.mov\" type=\"video/mp4\">\n      </video>\n    </div>\n\n    <div class=\"video-card\">\n      <video autoplay loop muted playsinline webkit-playsinline preload=\"auto\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/4e0aae59d2c74e78bb8ad261c0dec905.mov\" type=\"video/mp4\">\n      </video>\n    </div>\n\n    <div class=\"video-card\">\n      <video autoplay loop muted playsinline webkit-playsinline preload=\"auto\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/a3fda2c3e877495a8f002e93fb3addbf.mov\" type=\"video/mp4\">\n      </video>\n    </div>\n\n    <div class=\"video-card\">\n      <video autoplay loop muted playsinline webkit-playsinline preload=\"auto\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/5e0f47c3750e48a598c75f78930631f2.mov\" type=\"video/mp4\">\n      </video>\n    </div>\n\n    <!-- Vidéo 5 -->\n    <div class=\"video-card\">\n      <video autoplay loop muted playsinline webkit-playsinline preload=\"auto\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/1f23ab4567c84d5aa1234567890abcd.mov\" type=\"video/mp4\">\n      </video>\n    </div>\n\n    <!-- Vidéo 6 -->\n    <div class=\"video-card\">\n      <video autoplay loop muted playsinline webkit-playsinline preload=\"auto\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/2a34bc5678d94e6bb2345678901efgh.mov\" type=\"video/mp4\">\n      </video>\n    </div>\n\n  </div>\n\n  <!-- Script autoplay mobile -->\n  <script>\n    document.querySelectorAll('video').forEach(video => {\n      const playPromise = video.play();\n\n      if (playPromise !== undefined) {\n        playPromise.catch(() => {\n          document.addEventListener('touchstart', () => {\n            video.play();\n          }, { once: true });\n        });\n      }\n    });\n  </script>\n\n</body>\n</html>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -228,6 +250,7 @@
   "order": [
     "text-with-icons",
     "tabs_FTWPDT",
+    "accordion_content_7WAGia",
     "custom_liquid_w8Yf3N",
     "faq_JA7G8i",
     "footer"
