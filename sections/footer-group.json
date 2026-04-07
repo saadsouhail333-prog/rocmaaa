@@ -233,6 +233,23 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_yFTULz": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/IMG_1018_5401eef0-b944-4cf6-a7a4-9c7c59230252.png",
+        "mobile_image": "shopify://shop_images/IMG_1018_5401eef0-b944-4cf6-a7a4-9c7c59230252.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq_JA7G8i": {
       "type": "faq",
       "blocks": {
@@ -317,6 +334,7 @@
     "custom_liquid_3CKYXU",
     "tabs_FTWPDT",
     "custom_liquid_w8Yf3N",
+    "image_with_text_overlay_yFTULz",
     "faq_JA7G8i",
     "footer"
   ]
