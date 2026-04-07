@@ -84,6 +84,22 @@
         "logo_item_border": "#ffffff"
       }
     },
+    "image_with_text_overlay_GPTVpJ": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/IMG_0950_be738ee6-e347-4562-952e-5ca02d78d27d.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "before_after_image_LmrgbK": {
       "type": "before-after-image",
       "name": "Before/after image",
@@ -92,6 +108,7 @@
         "subheading": "",
         "title": "Różnica rzuca się w oczy !",
         "content": "",
+        "before_image": "shopify://shop_images/IMG_0950_be738ee6-e347-4562-952e-5ca02d78d27d.jpg",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "top",
@@ -148,6 +165,7 @@
   "order": [
     "image_with_text_overlay_jQYmLw",
     "logo_list_zXYBWN",
+    "image_with_text_overlay_GPTVpJ",
     "before_after_image_LmrgbK",
     "rich_text_XwVG9M",
     "custom_liquid_L7r8hy",
