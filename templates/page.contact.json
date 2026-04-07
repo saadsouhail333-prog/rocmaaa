@@ -20,8 +20,8 @@
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "contactez nous",
-        "title": "As-tu des questions ?",
+        "subheading": "Skontaktuj się z nami",
+        "title": "Masz jakieś pytania?",
         "content": "",
         "text_position": "start",
         "contact_form_size": "large",
