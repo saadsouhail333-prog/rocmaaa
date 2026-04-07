@@ -256,35 +256,59 @@
         "item_6JdR6D": {
           "type": "item",
           "settings": {
-            "title": "Epur Glow convient-il à tous les âges",
-            "content": "<p><strong>Oui, Epur Glow convient à tous les types de personnes et à tous les âges.</strong><br/><br/>Ses soins sont formulés pour être adaptés à tous les types de peau : <strong>peau sèche, normale, mixte, grasse et sensible</strong>, aussi bien pour les <strong>femmes que pour les hommes</strong>.<br/><br/></p>"
+            "title": "Co to jest PAP?",
+            "content": "<p>Nasza formuła oparta na PAP wykorzystuje technologię wybielania nowej generacji, która jest łagodniejsza i bardziej inteligentna niż nadtlenek.</p><p>PAP działa bezpośrednio na przebarwienia, utleniając je na poziomie molekularnym, bez uszkadzania szkliwa ani powodowania nadwrażliwości.</p><p>Wzbogaciliśmy ją o hydroksyapatyt, znany ze swoich właściwości wspomagających remineralizację i wzmacnianie szkliwa, a także o cytrynian potasu, który pomaga zapobiegać nadwrażliwości zębów.</p><p>Efektem jest wybielanie na poziomie profesjonalnym, które widocznie rozjaśnia zęby, jednocześnie je chroniąc i wzmacniając.<br/></p>"
           }
         },
         "item_FAV7Um": {
           "type": "item",
           "settings": {
-            "title": "Epur Glow convient-il à tous, hommes et femmes,",
-            "content": "<p><br/>Oui, Epur Glow est adapté à tous, hommes et femmes, et convient à tous les types de peau<br/><br/></p>"
+            "title": "Czy produkty są zagrożone?",
+            "content": "<p><strong>Tak, produkty są zaprojektowane tak, aby były bezpieczne, jeśli są stosowane zgodnie z instrukcją. Zawierają składniki zatwierdzone przez organy zdrowia, takie jak nadtlenek wodoru lub nadtlenek karbamidu w niskim stężeniu, powszechnie stosowane w pielęgnacji zębów.</strong></p><p><strong>Ponadto są testowane, aby zapewnić ich bezpieczeństwo dla szkliwa i dziąseł.</strong><br/></p>"
           }
         },
         "item_T9akbP": {
           "type": "item",
           "settings": {
-            "title": "Puis-je retourner le produit si je change d’avis ?",
-            "content": "<p><br/>Oui, tu peux retourner un produit dans un délai défini après réception (par exemple 30 ou 90 jours selon politique). Tu obtiendras un remboursement une fois le retour traité<br/><br/></p>"
+            "title": "Czy to jest dla mnie?",
+            "content": "<p><br/>Tak. został stworzony tak, aby pasować do każdego uśmiechu, niezależnie od punktu wyjścia.<br/><br/>Jeśli szukasz prostego, łagodnego i łatwego do włączenia do codziennej rutyny rozwiązania, SmileLab jest dla Ciebie.</p>"
+          }
+        },
+        "item_RCitDr": {
+          "type": "item",
+          "settings": {
+            "title": "Czy naprawdę zobaczę różnicę?",
+            "content": "<p><br/>Większość użytkowników zauważa stopniową i naturalną zmianę już po pierwszych użyciach.</p>"
+          }
+        },
+        "item_gjbrXn": {
+          "type": "item",
+          "settings": {
+            "title": "Jak długo trzeba czekać na efekty?",
+            "content": "<p><br/>To zależy od każdej osoby, ale wielu zauważa poprawę już po 30 minutach.<br/><br/>Efekty rozwijają się stopniowo, dla naturalnego i trwałego wyglądu.<br/></p>"
+          }
+        },
+        "item_ANLrXa": {
+          "type": "item",
+          "settings": {
+            "title": "A co jeśli nie będę zadowolony?",
+            "content": "<p>Możesz zamawiać bez obaw.</p><p>Jeśli WhiteSmile Ci nie odpowiada, nasza obsługa klienta jest do Twojej dyspozycji, aby znaleźć rozwiązanie.</p><p>Twoje zadowolenie jest dla nas priorytetem.</p>"
           }
         }
       },
       "block_order": [
         "item_6JdR6D",
         "item_FAV7Um",
-        "item_T9akbP"
+        "item_T9akbP",
+        "item_RCitDr",
+        "item_gjbrXn",
+        "item_ANLrXa"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "FAQ",
+        "title": "Często zadawane pytania",
         "content": "",
         "team_avatar_width": 140,
         "support_hours": "",
