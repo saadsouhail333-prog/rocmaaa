@@ -160,24 +160,40 @@
         "tab_e9jbtn": {
           "type": "tab",
           "settings": {
-            "title": "Caractéristique",
-            "content": "<p>Voici un texte court et simple pour présenter ce produit :</p><p><strong>Le Stylo Anti-Mycosique Epurglow</strong> est un soin ciblé pour traiter les ongles abîmés par les champignons. Grâce à l'action combinée de l'<strong>allicine</strong> et de l'<strong>acide undécylénique</strong>, il élimine l'infection tout en renforçant les ongles cassants.</p><p>Facile à utiliser avec son embout précis, il aide l'ongle à retrouver sa couleur naturelle et répare les zones endommagées. C'est la solution idéale pour retrouver des ongles sains et esthétiques en un seul geste.</p>",
+            "title": "Opis",
+            "content": "<p>Odkryj fioletowe paski wybielające do zębów. Rewolucyjne rozwiązanie w dziedzinie natychmiastowego wybielania, które zapewnia widoczne efekty już po ich usunięciu.</p><p>Rewolucyjna technologia korekcji koloru w odcieniu fioletu neutralizuje żółte tony przy kontakcie, zapewniając natychmiast jaśniejszy uśmiech. Nasza formuła PAP bez nadtlenku nadal działa, usuwając głębokie przebarwienia spowodowane kawą, winem, papierosami i innymi czynnikami.</p>",
             "page": ""
           }
         },
         "tab_G7arAd": {
           "type": "tab",
           "settings": {
-            "title": "Essayer le 30  jours gratuitement",
-            "content": "<p>Profitez de <strong>30 jours d’essai sans engagement</strong>. Si vous n’êtes pas entièrement satisfait, nous vous <strong>remboursons l’intégralité</strong> de votre paiement, sans conditions compliquées.</p>",
+            "title": "Składniki",
+            "content": "<p>Starannie dobrana formuła dla bezpiecznego i skutecznego wybielania:</p><p>Kompleks wybielający PAP – usuwa przebarwienia delikatnie, bez nadwrażliwości i bez uszkadzania szkliwa.<br/><br/>Technologia fioletowej korekcji koloru – natychmiast neutralizuje żółte odcienie, zapewniając efekt natychmiastowego rozjaśnienia.<br/><br/>Olej kokosowy – pielęgnuje dziąsła, wspomagając proces wybielania.<br/><br/>Mentol – zapewnia długotrwałe uczucie świeżości i czysty oddech.</p>",
             "page": ""
           }
         },
         "tab_6mAQqe": {
           "type": "tab",
           "settings": {
-            "title": "Livraison gratuite à domicile",
-            "content": "<p><br/>Profitez dès maintenant de la <strong>livraison gratuite à domicile</strong> pour soigner vos ongles sans bouger de chez vous !<br/><br/>.</p>",
+            "title": "Jak używać",
+            "content": "<ol><li><strong>Nałóż</strong><br/><br/>Umieść pasek na czystych i suchych zębach.<br/></li><li><br/><strong>Pozostaw na 30 minut</strong><br/><br/>Pasek działa, podczas gdy Ty kontynuujesz swój dzień.<br/></li><li><br/><strong>Usuń i opłucz</strong><br/><br/>Zdejmij pasek i w razie potrzeby przepłucz usta.<br/></li><li><br/><strong>Olśniewający uśmiech</strong><br/><br/>Powtarzaj codziennie przez 7 dni lub aż do uzyskania pożądanego efektu.<br/></li></ol>",
+            "page": ""
+          }
+        },
+        "tab_3RgbFt": {
+          "type": "tab",
+          "settings": {
+            "title": "Korzyści",
+            "content": "<p>Widocznie bielszy uśmiech już po zdjęciu pasków. Nie trzeba czekać kilku dni, aby zobaczyć różnicę.</p><p><strong>Fioletowa technologia korekcji koloru</strong><br/><br/>Natychmiast neutralizuje żółte odcienie przy kontakcie z zębami, zapewniając efekt rozjaśnienia widoczny już po pierwszym użyciu.</p><p><strong>Stopniowe i trwałe wybielanie</strong><br/><br/>Do 7 odcieni bielsze zęby przy regularnym stosowaniu, bez nadwrażliwości.</p><p><strong>Natychmiastowy zastrzyk pewności siebie</strong><br/><br/>Idealne przed zdjęciem, spotkaniem lub w każdej chwili, gdy chcesz mieć olśniewający uśmiech.</p><p><strong>Bezpieczne dla szkliwa</strong><br/><br/>Bezpieczna formuła, bez agresywnego nadtlenku, zaprojektowana, aby chronić zdrowie Twoich zębów.</p><p><strong>Proste i wygodne</strong><br/><br/>Wystarczy jedna aplikacja dziennie. Bez żelu i bez nakładek: szybko, czysto i skutecznie.</p>",
+            "page": ""
+          }
+        },
+        "tab_aJ3Pd3": {
+          "type": "tab",
+          "settings": {
+            "title": "Dostawa i zwroty",
+            "content": "<p>Realizacja zamówienia zajmuje 1–2 dni robocze przed wysyłką.</p><p>Oferujemy 14-dniową gwarancję satysfakcji.</p><p>Jeśli z jakiegokolwiek powodu nie będziesz zadowolony, zwrócimy Ci pełną kwotę, bez podawania przyczyny.</p>",
             "page": ""
           }
         }
@@ -185,7 +201,9 @@
       "block_order": [
         "tab_e9jbtn",
         "tab_G7arAd",
-        "tab_6mAQqe"
+        "tab_6mAQqe",
+        "tab_3RgbFt",
+        "tab_aJ3Pd3"
       ],
       "name": "Tabs",
       "settings": {
