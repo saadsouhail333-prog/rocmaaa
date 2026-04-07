@@ -20,6 +20,13 @@
             "heading_tag": "h2"
           }
         },
+        "kaching_bundles_app_block_aLgwhP": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}",
+            "manual_deal_block_id": ""
+          }
+        },
         "liquid_dWrFnJ": {
           "type": "liquid",
           "settings": {
@@ -29,12 +36,6 @@
         "badges_63fHrC": {
           "type": "badges",
           "settings": {}
-        },
-        "price_WrhCrW": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
         },
         "rating_yt3chY": {
           "type": "rating",
@@ -65,10 +66,6 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector_q4jbBT": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons_QfDHkY": {
           "type": "buy_buttons",
           "settings": {
@@ -93,14 +90,13 @@
       },
       "block_order": [
         "title_UqJxBa",
+        "kaching_bundles_app_block_aLgwhP",
         "liquid_dWrFnJ",
         "badges_63fHrC",
-        "price_WrhCrW",
         "rating_yt3chY",
         "separator_9JTedV",
         "description_hVTViN",
         "variant_picker_rTQFym",
-        "quantity_selector_q4jbBT",
         "buy_buttons_QfDHkY",
         "liquid_rmhw8K",
         "pickup_availability_NhqD4T"
@@ -108,7 +104,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "smile-off",
+        "product": "paski-wybielajace-zeby",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
