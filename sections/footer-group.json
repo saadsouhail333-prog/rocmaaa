@@ -404,8 +404,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Często zadawane pytania",
-        "content": "",
+        "title": "",
+        "content": "<h3><br/>Często zadawane pytania<br/><br/></h3>",
         "team_avatar_width": 140,
         "support_hours": "",
         "answer_time": "",
