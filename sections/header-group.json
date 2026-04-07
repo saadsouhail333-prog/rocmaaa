@@ -57,10 +57,10 @@
       "type": "header",
       "settings": {
         "enable_sticky": true,
-        "hide_on_scroll": false,
-        "logo": "shopify://shop_images/6491FCD9-900F-4093-BC24-CFE77ABB2869-removebg-preview_e6417891-3f2b-406b-a912-3c4a1b8e1eb3.png",
+        "hide_on_scroll": true,
+        "logo": "shopify://shop_images/IMG_1169-removebg-preview.png",
         "logo_max_width": 170,
-        "logo_mobile_max_width": 100,
+        "logo_mobile_max_width": 90,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
