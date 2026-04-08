@@ -359,7 +359,7 @@
         "item_FAV7Um": {
           "type": "item",
           "settings": {
-            "title": "Czy produkty są zagrożone?",
+            "title": "Czy produkty są bezpieczne?",
             "content": "<p><strong>Tak, produkty są zaprojektowane tak, aby były bezpieczne, jeśli są stosowane zgodnie z instrukcją. Zawierają składniki zatwierdzone przez organy zdrowia, takie jak nadtlenek wodoru lub nadtlenek karbamidu w niskim stężeniu, powszechnie stosowane w pielęgnacji zębów.</strong></p><p><strong>Ponadto są testowane, aby zapewnić ich bezpieczeństwo dla szkliwa i dziąseł.</strong><br/></p>"
           }
         },
