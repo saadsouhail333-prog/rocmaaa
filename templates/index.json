@@ -48,67 +48,24 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
-    "logo_list_zXYBWN": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_NAYCEi": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/laboderma_16.png",
-            "logo_width": 170,
-            "link": ""
-          }
-        },
-        "logo_YEDcjG": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/laboderma_17.png",
-            "logo_width": 170,
-            "link": ""
-          }
-        },
-        "logo_wa6rxm": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/laboderma_18.png",
-            "logo_width": 170,
-            "link": ""
-          }
-        },
-        "logo_XJHcHL": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/laboderma_19.png",
-            "logo_width": 170,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_NAYCEi",
-        "logo_YEDcjG",
-        "logo_wa6rxm",
-        "logo_XJHcHL"
+    "custom_liquid_FxGtaE": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{margin-top: 20px; margin-bottom: -25px;}"
       ],
-      "name": "Logo list",
+      "name": "Custom Liquid",
       "settings": {
-        "full_width": false,
-        "stack_mobile": true,
-        "title": "„Widziane w”",
-        "content": "",
-        "text_alignment": "center",
-        "items_per_row": 4,
-        "background": "#ffffff",
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n.logo-carousel-wrapper {\n  padding: 0;\n  background: transparent;\n  overflow: hidden;\n  width: 100vw;\n  position: relative;\n  left: 50%;\n  right: 50%;\n  margin-left: -50vw;\n  margin-right: -50vw;\n}\n.logo-carousel {\n  position: relative;\n  width: 100%;\n  overflow: hidden;\n  mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);\n  -webkit-mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);\n}\n.logo-track {\n  display: flex;\n  align-items: center;\n  animation: scroll 30s linear infinite;\n  width: fit-content;\n}\n.logo-track:hover {\n  animation-play-state: paused;\n}\n.logo-item {\n  flex-shrink: 0;\n  width: 150px;\n  height: 80px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  padding: 0 30px;\n}\n.logo-item img {\n  max-width: 100%;\n  max-height: 100%;\n  width: auto;\n  height: auto;\n  object-fit: contain;\n  filter: none;\n  opacity: 1;\n  transition: all 0.3s ease;\n}\n.logo-item:hover img {\n  opacity: 0.8;\n}\n@keyframes scroll {\n  0% { transform: translateX(0); }\n  100% { transform: translateX(-50%); }\n}\n@media (max-width: 768px) {\n  .logo-carousel-wrapper { padding: 0; }\n  .logo-item { width: 120px; height: 60px; padding: 0 20px; }\n  .logo-track { animation-duration: 20s; }\n}\n</style>\n<div class=\"logo-carousel-wrapper\">\n  <div class=\"logo-carousel\">\n    <div class=\"logo-track\">\n      <div class=\"logo-item\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0927/3370/2410/files/ELLE_Magazine_Logo.svg?v=1771444677\" alt=\"Elle\" loading=\"lazy\">\n      </div>\n      <div class=\"logo-item\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0927/3370/2410/files/Cosmopolitan-Logo_2.png?v=1771444752\" alt=\"Cosmopolitan\" loading=\"lazy\">\n      </div>\n      <div class=\"logo-item\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0927/3370/2410/files/Copie_de_EntgratPro_26.png?v=1771444953\" alt=\"Marie Claire\" loading=\"lazy\">\n      </div>\n      <div class=\"logo-item\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0927/3370/2410/files/VOGUE_revista_-_logo.png?v=1771444774\" alt=\"Vogue\" loading=\"lazy\">\n      </div>\n      \n      <!-- DUPLICATE pour effet infini -->\n      <div class=\"logo-item\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0927/3370/2410/files/ELLE_Magazine_Logo.svg?v=1771444677\" alt=\"Elle\" loading=\"lazy\">\n      </div>\n      <div class=\"logo-item\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0927/3370/2410/files/Cosmopolitan-Logo_2.png?v=1771444752\" alt=\"Cosmopolitan\" loading=\"lazy\">\n      </div>\n      <div class=\"logo-item\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0927/3370/2410/files/Copie_de_EntgratPro_26.png?v=1771444953\" alt=\"Marie Claire\" loading=\"lazy\">\n      </div>\n      <div class=\"logo-item\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0927/3370/2410/files/VOGUE_revista_-_logo.png?v=1771444774\" alt=\"Vogue\" loading=\"lazy\">\n      </div>\n    </div>\n  </div>\n</div>",
+        "background": "",
         "background_gradient": "",
-        "text_color": "#000000",
-        "heading_color": "#000000",
-        "heading_gradient": "",
-        "logo_item_background": "#f0f0f0",
-        "logo_item_border": "#ffffff"
+        "text_color": ""
       }
     },
     "before_after_image_LmrgbK": {
@@ -207,7 +164,7 @@
   },
   "order": [
     "slideshow_HtRFkm",
-    "logo_list_zXYBWN",
+    "custom_liquid_FxGtaE",
     "before_after_image_LmrgbK",
     "image_with_text_overlay_GPTVpJ",
     "custom_html_EcnzB7",
