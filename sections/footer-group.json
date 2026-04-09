@@ -259,7 +259,7 @@
           "type": "blog",
           "settings": {
             "blog": "news",
-            "posts_count": 3,
+            "posts_count": 6,
             "stack_items": false
           }
         }
@@ -277,13 +277,13 @@
         "show_comments_count": false,
         "show_category": true,
         "subheading": "",
-        "title": "Blog posts",
+        "title": "Oni mówią o tym najlepiej.",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
-        "background": "#803cee",
+        "link_text": "",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#ffffff",
+        "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": ""
       }
