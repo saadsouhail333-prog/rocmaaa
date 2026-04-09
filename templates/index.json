@@ -55,7 +55,7 @@
     "custom_liquid_FxGtaE": {
       "type": "custom-liquid",
       "custom_css": [
-        "{margin-top: 20px; margin-bottom: -25px;}"
+        "{margin-top: 0px; margin-bottom: -25px;}"
       ],
       "name": "Custom Liquid",
       "settings": {
