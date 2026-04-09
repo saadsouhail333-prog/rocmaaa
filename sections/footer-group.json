@@ -248,6 +248,10 @@
         "overlay_opacity": 0
       }
     },
+    "1775756396141f99cb": {
+      "type": "_blocks",
+      "settings": {}
+    },
     "testimonials_HHhcCk": {
       "type": "testimonials",
       "blocks": {
@@ -453,6 +457,7 @@
     "tabs_FTWPDT",
     "custom_liquid_w8Yf3N",
     "image_with_text_overlay_yFTULz",
+    "1775756396141f99cb",
     "testimonials_HHhcCk",
     "faq_JA7G8i",
     "footer"
