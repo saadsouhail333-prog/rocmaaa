@@ -31,7 +31,7 @@
         "logo_NAYCEi": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/IMG_0952.jpg",
+            "logo": "shopify://shop_images/laboderma_16.png",
             "logo_width": 170,
             "link": ""
           }
@@ -39,7 +39,7 @@
         "logo_YEDcjG": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/IMG_0954.jpg",
+            "logo": "shopify://shop_images/laboderma_17.png",
             "logo_width": 170,
             "link": ""
           }
@@ -47,7 +47,7 @@
         "logo_wa6rxm": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/IMG_0953.jpg",
+            "logo": "shopify://shop_images/laboderma_18.png",
             "logo_width": 170,
             "link": ""
           }
@@ -55,7 +55,7 @@
         "logo_XJHcHL": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/IMG_0956.jpg",
+            "logo": "shopify://shop_images/laboderma_19.png",
             "logo_width": 170,
             "link": ""
           }
@@ -70,17 +70,17 @@
       "name": "Logo list",
       "settings": {
         "full_width": false,
-        "stack_mobile": false,
-        "title": "",
+        "stack_mobile": true,
+        "title": "„Widziane w”",
         "content": "",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "items_per_row": 4,
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#ffffff",
-        "heading_color": "#ffffff",
+        "text_color": "#000000",
+        "heading_color": "#000000",
         "heading_gradient": "",
-        "logo_item_background": "#ffffff",
+        "logo_item_background": "#f0f0f0",
         "logo_item_border": "#ffffff"
       }
     },
