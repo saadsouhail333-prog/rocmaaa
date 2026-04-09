@@ -85,6 +85,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_HXDL4U": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; justify-content: center; align-items: center; gap: 10px; font-family: Arial, sans-serif; font-size: 14px; color: #111; margin-top: 20px;\">\n  <span style=\"position: relative; width: 14px; height: 14px; display: inline-block;\">\n    <span style=\"\n      position: absolute;\n      top: 50%;\n      left: 50%;\n      width: 28px;\n      height: 28px;\n      border: 2px solid #ff0000;\n      border-radius: 50%;\n      transform: translate(-50%, -50%);\n      animation: pulse 1.5s infinite;\n      opacity: 0.6;\n    \"></span>\n    <span style=\"\n      display: block;\n      width: 14px;\n      height: 14px;\n      background-color: #ff0000;\n      border-radius: 50%;\n    \"></span>\n  </span>\n  <span><b>8 osób</b> ogląda ten pakiet</span>\n</div>\n\n<style>\n@keyframes pulse {\n  0% {\n    transform: translate(-50%, -50%) scale(0.8);\n    opacity: 0.6;\n  }\n  50% {\n    transform: translate(-50%, -50%) scale(1.4);\n    opacity: 0;\n  }\n  100% {\n    transform: translate(-50%, -50%) scale(0.8);\n    opacity: 0.6;\n  }\n}\n</style>"
+          }
+        },
         "liquid_knxL3K": {
           "type": "liquid",
           "settings": {
@@ -113,6 +119,7 @@
         "description_hVTViN",
         "variant_picker_rTQFym",
         "buy_buttons_QfDHkY",
+        "liquid_HXDL4U",
         "liquid_knxL3K",
         "liquid_rmhw8K",
         "pickup_availability_NhqD4T"
