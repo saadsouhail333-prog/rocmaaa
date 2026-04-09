@@ -55,10 +55,6 @@
             "show_empty": false
           }
         },
-        "separator_9JTedV": {
-          "type": "separator",
-          "settings": {}
-        },
         "description_hVTViN": {
           "type": "description",
           "settings": {
@@ -114,13 +110,15 @@
         "liquid_dWrFnJ",
         "badges_63fHrC",
         "rating_yt3chY",
-        "separator_9JTedV",
         "description_hVTViN",
         "variant_picker_rTQFym",
         "buy_buttons_QfDHkY",
         "liquid_knxL3K",
         "liquid_rmhw8K",
         "pickup_availability_NhqD4T"
+      ],
+      "custom_css": [
+        "{margin-top: 0px; margin-bottom: -45px;}"
       ],
       "name": "Featured product",
       "settings": {
