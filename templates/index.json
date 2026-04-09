@@ -15,8 +15,8 @@
         "image_hNQhae": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_0924_957aaea6-bf1a-4a78-853e-cb8e0f28e180.png",
-            "mobile_image": "shopify://shop_images/IMG_0924_2b30f94d-0654-4f8e-b4ed-23f79b27368d.png",
+            "image": "shopify://shop_images/IMG_0924_957aaea6-bf1a-4a78-853e-cb8e0f28e180.jpg",
+            "mobile_image": "shopify://shop_images/IMG_0924_543781d5-3e2d-4948-a02a-5a3eebd46486.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
