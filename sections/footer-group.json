@@ -252,6 +252,42 @@
       "type": "_blocks",
       "settings": {}
     },
+    "blog_posts_akQabB": {
+      "type": "blog-posts",
+      "blocks": {
+        "blog_RhKnGh": {
+          "type": "blog",
+          "settings": {
+            "blog": "news",
+            "posts_count": 3,
+            "stack_items": false
+          }
+        }
+      },
+      "block_order": [
+        "blog_RhKnGh"
+      ],
+      "disabled": true,
+      "name": "Blog posts",
+      "settings": {
+        "full_width": false,
+        "show_excerpt": true,
+        "show_date": true,
+        "show_author": true,
+        "show_comments_count": false,
+        "show_category": true,
+        "subheading": "",
+        "title": "Blog posts",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "#803cee",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "testimonials_HHhcCk": {
       "type": "testimonials",
       "blocks": {
@@ -458,6 +494,7 @@
     "custom_liquid_w8Yf3N",
     "image_with_text_overlay_yFTULz",
     "1775756396141f99cb",
+    "blog_posts_akQabB",
     "testimonials_HHhcCk",
     "faq_JA7G8i",
     "footer"
